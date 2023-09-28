@@ -1,5 +1,5 @@
 # Projet_SGBD
-Application de gestion de stock d'un grossiste en matériaux de construction pour le cours "Projet de développement SGBD".
+Application de gestion de stock d'un grossiste en matériaux de construction pour le cours "Projet de développement SGBD" de mon bachelier d'informatique de gestion.
 
 Enoncé :
 Il est demandé de développer une application en Java permettant de gérer le stock d’un grossiste en
